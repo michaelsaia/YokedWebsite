@@ -28,8 +28,8 @@ export default function AppStoreBadges({ className = '' }: AppStoreBadgesProps) 
         </div>
       </motion.a>
 
-      {/* Google Play Badge */}
-      <motion.a
+      {/* Google Play Badge - Hidden until Android launch */}
+      {/* <motion.a
         href={LINKS.playStore}
         target="_blank"
         rel="noopener noreferrer"
@@ -44,7 +44,7 @@ export default function AppStoreBadges({ className = '' }: AppStoreBadgesProps) 
           <div className="text-[10px] leading-none">Get it on</div>
           <div className="text-sm font-semibold leading-tight">Google Play</div>
         </div>
-      </motion.a>
+      </motion.a> */}
     </div>
   );
 }
