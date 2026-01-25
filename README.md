@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Yoked Website
+
+Marketing landing page for **Yoked** - Your AI-Powered Gains Partner.
+
+**Live:** [yoked.fitness](https://yoked.fitness)
+
+## About Yoked
+
+Yoked is an AI-powered fitness app that creates personalized workout programs based on your goals, experience, and schedule. Features include:
+
+- AI Program Generator
+- Smart Workout Tracking
+- Progress Photos
+- Community Programs
+- Personal Records Tracking
+
+## Tech Stack
+
+- [Next.js 16](https://nextjs.org/) - React framework with App Router
+- [React 19](https://react.dev/) - UI library
+- [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
+- [Motion](https://motion.dev/) - Animation library (Framer Motion)
+- [TypeScript](https://www.typescriptlang.org/) - Type safety
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/michaelsaia/YokedWebsite.git
+cd YokedWebsite
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Build for production (static export)
+npm run build
 
-## Learn More
+# Preview production build
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+src/
+├── app/                    # Next.js pages
+├── components/
+│   ├── animations/        # Animation components
+│   ├── forms/             # Form components
+│   ├── layout/            # Header, Footer
+│   ├── sections/          # Page sections
+│   ├── shared/            # Shared components
+│   └── ui/                # UI primitives
+├── lib/
+│   ├── constants.ts       # Site content & config
+│   └── utils.ts           # Utilities
+public/
+├── images/                # Static images
+└── screenshots/           # App screenshots
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deployment
 
-## Deploy on Vercel
+The site is automatically deployed to GitHub Pages on push to `main`. The custom domain `yoked.fitness` is configured via the `CNAME` file.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+App screenshots are captured from the iOS Simulator and displayed in an interactive phone mockup carousel on the landing page.
+
+## Contributing
+
+This is a private project for Yoked. For questions or access, contact the maintainers.
+
+## License
+
+Private - All rights reserved.
