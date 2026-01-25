@@ -6,6 +6,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Button from '@/components/ui/Button';
 import Container from '@/components/ui/Container';
+import { LINKS } from '@/lib/constants';
 
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -56,9 +57,11 @@ export default function Header() {
 
           {/* CTA */}
           <div className="flex items-center gap-3">
-            <Button variant="primary" size="sm">
-              Get Yoked!
-            </Button>
+            <a href={LINKS.appStore} target="_blank" rel="noopener noreferrer">
+              <Button variant="primary" size="sm">
+                Get Yoked!
+              </Button>
+            </a>
           </div>
         </div>
       </Container>
