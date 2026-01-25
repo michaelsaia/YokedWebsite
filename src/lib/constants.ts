@@ -6,8 +6,8 @@ export const SITE_CONFIG = {
 };
 
 export const LINKS = {
-  appStore: '#', // Replace with actual App Store link
-  playStore: '#', // Replace with actual Play Store link
+  appStore: 'https://testflight.apple.com/join/AdsCwT62',
+  playStore: '#', // Coming soon
   twitter: '#',
   instagram: '#',
   tiktok: '#',
