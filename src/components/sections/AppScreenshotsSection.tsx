@@ -73,13 +73,6 @@ export default function AppScreenshotsSection() {
     return () => clearInterval(interval);
   }, [isAutoPlaying]);
 
-  const handleDotClick = (index: number) => {
-    setActiveIndex(index);
-    setIsAutoPlaying(false);
-    // Resume auto-play after 10 seconds of inactivity
-    setTimeout(() => setIsAutoPlaying(true), 10000);
-  };
-
   const handlePrev = () => {
     setActiveIndex((prev) => (prev - 1 + screenshots.length) % screenshots.length);
     setIsAutoPlaying(false);
@@ -203,23 +196,6 @@ export default function AppScreenshotsSection() {
                 </p>
               </motion.div>
             </AnimatePresence>
-
-            {/* Feature dots/pills */}
-            <div className="flex flex-wrap justify-center lg:justify-start gap-2 mb-8">
-              {screenshots.map((screenshot, index) => (
-                <button
-                  key={index}
-                  onClick={() => handleDotClick(index)}
-                  className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-300 ${
-                    index === activeIndex
-                      ? 'bg-primary text-dark'
-                      : 'bg-dark-200 text-dark-500 hover:bg-dark-300 hover:text-white'
-                  }`}
-                >
-                  {screenshot.title.split(' ').slice(0, 2).join(' ')}
-                </button>
-              ))}
-            </div>
 
             {/* Navigation arrows - desktop */}
             <div className="hidden lg:flex gap-4">
