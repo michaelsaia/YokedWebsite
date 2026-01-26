@@ -27,7 +27,7 @@ export default function WaitlistForm({ className = '' }: WaitlistFormProps) {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          access_key: 'YOUR_WEB3FORMS_ACCESS_KEY', // Replace with your key from web3forms.com
+          access_key: 'f51de822-084f-49ea-a0ad-006e9c4f14e4', // Replace with your key from web3forms.com
           email: email,
           subject: 'New Yoked Waitlist Signup!',
           from_name: 'Yoked Website',
