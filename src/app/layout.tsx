@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: 'Yoked - AI-Powered Fitness App | Get Your Personalized Workout Program',
-  description: 'Build muscle, track progress, and crush your fitness goals with Yoked. Our AI creates personalized workout programs tailored to your goals. Download now and get yoked!',
+  description: 'Build muscle, track progress, and crush your fitness goals with Yoked. Our AI enabled workflow creates personalized workout programs tailored to your goals. Download now and get yoked!',
   keywords: ['fitness app', 'workout tracker', 'AI fitness', 'gym app', 'workout program', 'muscle building', 'personal trainer', 'exercise app'],
   authors: [{ name: 'Yoked' }],
   creator: 'Yoked',
