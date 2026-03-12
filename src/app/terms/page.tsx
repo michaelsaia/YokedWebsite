@@ -69,8 +69,8 @@ export default function TermsOfService() {
                 Continued access to AI-powered features requires a Premium subscription. Premium plans are available as:
               </p>
               <ul>
-                <li><strong>Monthly:</strong> $7.99/month</li>
-                <li><strong>Annual:</strong> $49.99/year</li>
+                <li><strong>Monthly:</strong> $4.99/month</li>
+                <li><strong>Annual:</strong> $34.99/year</li>
               </ul>
               <p>
                 Premium features include AI-generated workout programs, AI-generated individual workouts, AI exercise swap suggestions, and AI coaching feedback.
@@ -220,7 +220,7 @@ export default function TermsOfService() {
 
             <Section title="15. Changes to Terms">
               <p>
-                We reserve the right to modify these Terms at any time. We will notify users of material changes through the App or via email. Your continued use of the App after changes are posted constitutes acceptance of the modified Terms. If you do not agree to the updated Terms, you should discontinue use of the App.
+                We reserve the right to modify these Terms at any time. We will notify users of material changes by posting an updated version within the App or on our website with a new &quot;Last updated&quot; date. Your continued use of the App after changes are posted constitutes acceptance of the modified Terms. If you do not agree to the updated Terms, you should discontinue use of the App.
               </p>
             </Section>
 
@@ -235,7 +235,7 @@ export default function TermsOfService() {
                 If you have questions about these Terms, please contact us at:
               </p>
               <ul>
-                <li>Email: <a href="mailto:support@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">support@yoked.fitness</a></li>
+                <li>Email: <a href="mailto:mike@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">mike@yoked.fitness</a></li>
                 <li>Website: <a href="https://yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">yoked.fitness</a></li>
               </ul>
             </Section>

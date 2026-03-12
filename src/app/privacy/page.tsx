@@ -49,7 +49,7 @@ export default function PrivacyPolicy() {
               </p>
               <p>
                 Questions? Contact us at{' '}
-                <a href="mailto:support@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">support@yoked.fitness</a>.
+                <a href="mailto:mike@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">mike@yoked.fitness</a>.
               </p>
             </Section>
 
@@ -235,14 +235,14 @@ export default function PrivacyPolicy() {
               </ul>
               <p>
                 To exercise any of these rights, contact us at{' '}
-                <a href="mailto:support@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">support@yoked.fitness</a>.
+                <a href="mailto:mike@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">mike@yoked.fitness</a>.
                 We will respond within 30 days.
               </p>
 
               <h3 className="text-lg font-semibold text-white mt-6 mb-3">For California Residents (CCPA)</h3>
               <p>
                 You have the right to know what personal information we collect, request deletion of your data, and opt out of the sale of personal information. We do not sell your personal information. To submit a request, email{' '}
-                <a href="mailto:support@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">support@yoked.fitness</a>.
+                <a href="mailto:mike@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">mike@yoked.fitness</a>.
               </p>
 
               <h3 className="text-lg font-semibold text-white mt-6 mb-3">For EU/UK Residents (GDPR)</h3>
@@ -254,7 +254,7 @@ export default function PrivacyPolicy() {
             <Section title="10. Children&apos;s Privacy">
               <p>
                 The App is not intended for children under 16 years of age. We do not knowingly collect personal information from children under 16. If you believe a child under 16 has provided us with personal information, please contact us at{' '}
-                <a href="mailto:support@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">support@yoked.fitness</a>
+                <a href="mailto:mike@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">mike@yoked.fitness</a>
                 {' '}and we will delete the account promptly.
               </p>
             </Section>
@@ -292,7 +292,7 @@ export default function PrivacyPolicy() {
             <Section title="16. Contact Us">
               <p>If you have questions about this Privacy Policy or your data, contact us at:</p>
               <ul>
-                <li>Email: <a href="mailto:support@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">support@yoked.fitness</a></li>
+                <li>Email: <a href="mailto:mike@yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">mike@yoked.fitness</a></li>
                 <li>Website: <a href="https://yoked.fitness" className="text-primary hover:text-primary-400 transition-colors underline">yoked.fitness</a></li>
               </ul>
             </Section>
