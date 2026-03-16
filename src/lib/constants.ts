@@ -6,7 +6,7 @@ export const SITE_CONFIG = {
 };
 
 export const LINKS = {
-  appStore: 'https://testflight.apple.com/join/AdsCwT62',
+  appStore: 'https://apps.apple.com/us/app/yoked-ai-trainer/id6758185782',
   playStore: '#', // Coming soon
   twitter: '#',
   instagram: '#',
