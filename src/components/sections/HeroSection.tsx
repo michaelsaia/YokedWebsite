@@ -2,7 +2,6 @@
 
 import { motion } from 'motion/react';
 import AnimatedEgg from '@/components/animations/AnimatedEgg';
-import WaitlistForm from '@/components/forms/WaitlistForm';
 import AppStoreBadges from '@/components/shared/AppStoreBadges';
 import Container from '@/components/ui/Container';
 
@@ -103,15 +102,7 @@ export default function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.7, duration: 0.6 }}
             >
-              <AppStoreBadges className="mb-6" />
-
-              <div className="flex items-center gap-4 mb-6">
-                <div className="flex-1 h-px bg-dark-200" />
-                <span className="text-dark-500 text-sm">or join the waitlist</span>
-                <div className="flex-1 h-px bg-dark-200" />
-              </div>
-
-              <WaitlistForm />
+              <AppStoreBadges />
             </motion.div>
           </div>
         </div>

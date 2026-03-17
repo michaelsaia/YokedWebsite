@@ -2,7 +2,6 @@
 
 import { motion } from 'motion/react';
 import AnimatedEgg from '@/components/animations/AnimatedEgg';
-import WaitlistForm from '@/components/forms/WaitlistForm';
 import AppStoreBadges from '@/components/shared/AppStoreBadges';
 import Container from '@/components/ui/Container';
 import FadeInView from '@/components/animations/FadeInView';
@@ -43,27 +42,12 @@ export default function CTASection() {
           </FadeInView>
 
           <FadeInView delay={0.4}>
-            <div className="flex items-center gap-4 mb-6 max-w-md mx-auto">
-              <div className="flex-1 h-px bg-dark-200" />
-              <span className="text-dark-500 text-sm">or get notified at launch</span>
-              <div className="flex-1 h-px bg-dark-200" />
-            </div>
-          </FadeInView>
-
-          <FadeInView delay={0.5}>
-            <div className="max-w-md mx-auto">
-              <WaitlistForm />
-            </div>
-          </FadeInView>
-
-          {/* Fun tagline */}
-          <FadeInView delay={0.6}>
             <motion.p
-              className="mt-8 text-dark-600 text-sm"
+              className="mt-4 text-dark-600 text-sm"
               animate={{ opacity: [0.5, 1, 0.5] }}
               transition={{ duration: 3, repeat: Infinity }}
             >
-              No spam. Just gains. 💪
+              Available now on iOS. 💪
             </motion.p>
           </FadeInView>
         </div>
