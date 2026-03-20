@@ -1,0 +1,27 @@
+# Yoked
+
+> Yoked is an AI-powered fitness app that creates personalized workout programs using artificial intelligence. Available free on iOS.
+
+## Main Pages
+
+- [Home](https://yoked.fitness/): AI fitness app landing page — features, how it works, FAQ
+- [Blog](https://yoked.fitness/blog/): AI fitness insights, workout science, and training tips
+- [Privacy Policy](https://yoked.fitness/privacy/): Privacy policy for the Yoked app
+
+## Blog Articles
+
+- [How AI Fitness Apps Actually Work](https://yoked.fitness/blog/how-ai-fitness-apps-work/): Technical breakdown of how AI creates personalized workout programs — exercise selection, volume programming, progressive overload, and continuous adaptation.
+- [AI Fitness Coach vs Personal Trainer](https://yoked.fitness/blog/ai-fitness-coach-vs-personal-trainer/): Data-driven comparison of AI fitness coaching versus human personal trainers — cost, effectiveness, availability, form correction, and when each makes sense.
+- [Best AI Fitness Apps in 2026](https://yoked.fitness/blog/best-ai-fitness-apps-2026/): Honest comparison of top AI fitness apps including Yoked, Fitbod, Freeletics, and GymStreak — features, pricing, and ideal use cases.
+- [Beginner's Guide to AI-Powered Workouts](https://yoked.fitness/blog/beginners-guide-ai-workouts/): Getting started with AI workout apps — what to expect, first week tips, and common beginner questions answered.
+- [How Yoked Personalizes Every Workout](https://yoked.fitness/blog/how-yoked-personalizes-workouts/): Deep dive into Yoked's personalization — from training experience and goals to equipment availability and schedule constraints.
+
+## Key Facts
+
+- App Name: Yoked
+- Category: AI Fitness / Health Application
+- Platforms: iOS (Android coming soon)
+- Price: Free
+- Key Feature: AI-generated personalized workout programs
+- Website: https://yoked.fitness
+- App Store: https://apps.apple.com/us/app/yoked-ai-trainer/id6758185782

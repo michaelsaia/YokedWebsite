@@ -45,12 +45,11 @@ export default function FeaturesSection() {
       <Container>
         <FadeInView className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Everything You Need to Get{' '}
-            <span className="text-primary">Yoked</span>
+            Your AI Fitness Coach,{' '}
+            <span className="text-primary">Fully Loaded</span>
           </h2>
           <p className="text-xl text-dark-500 max-w-2xl mx-auto">
-            Like having a personal trainer in your pocket - but available 24/7
-            and way less expensive.
+            Yoked gives you AI-powered personal training, smart workout tracking, and community programs — all in one app.
           </p>
         </FadeInView>
 

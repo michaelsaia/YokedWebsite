@@ -5,6 +5,9 @@ import Container from '@/components/ui/Container';
 export const metadata: Metadata = {
   title: 'Privacy Policy - Yoked',
   description: 'Privacy Policy for Yoked fitness app',
+  alternates: {
+    canonical: 'https://yoked.fitness/privacy/',
+  },
 };
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {

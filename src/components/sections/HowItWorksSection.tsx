@@ -34,10 +34,10 @@ export default function HowItWorksSection() {
       <Container>
         <FadeInView className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            From Zero to <span className="text-primary">Yoked</span> in 4 Steps
+            How Yoked&apos;s AI Creates Your <span className="text-primary">Perfect Workout</span>
           </h2>
           <p className="text-xl text-dark-500 max-w-2xl mx-auto">
-            No more winging it at the gym. Get a real plan in under a minute.
+            Get a personalized workout program in under a minute. No trainer needed, no guesswork involved.
           </p>
         </FadeInView>
 

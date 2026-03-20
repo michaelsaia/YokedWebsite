@@ -64,8 +64,8 @@ export default function HeroSection() {
               transition={{ delay: 0.4, duration: 0.6 }}
               className="text-lg text-dark-500 mb-8 max-w-xl mx-auto lg:mx-0"
             >
-              Personal trainer brains, your schedule. Build smart programs that
-              keep your muscles guessing and your gains growing.
+              The AI fitness app that builds personalized workout programs for your goals,
+              equipment, and schedule. Like a personal trainer in your pocket — available 24/7.
             </motion.p>
 
             {/* Use cases ticker */}
