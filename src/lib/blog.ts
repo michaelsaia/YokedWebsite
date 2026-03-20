@@ -80,7 +80,7 @@ AI fitness apps work by combining exercise science principles with machine learn
 3. **Adaptive** based on your actual performance data
 4. **Accessible** at a fraction of the cost of personal training
 
-Yoked brings all of this together in a clean, easy-to-use app. Download it free on iOS and get your AI-generated workout program today.`,
+Yoked brings all of this together in a clean, easy-to-use app. Download it on iOS and get your AI-generated workout program today.`,
   },
   {
     slug: 'ai-fitness-coach-vs-personal-trainer',
@@ -101,7 +101,7 @@ Here's what the data shows.
 
 The average personal trainer charges **$40-70 per session** (Bureau of Labor Statistics, 2025). Training 3 times per week costs $480-840 per month.
 
-AI fitness apps like Yoked offer personalized programming for **free or a fraction of that cost**. That's the same core service — exercise selection, sets/reps, progressive overload — without the premium price tag.
+AI fitness apps like Yoked offer personalized programming for **a fraction of that cost**. Core features like workout tracking, community programs, and progress logging are included for free — and AI-generated programs cost a few dollars per month via subscription, compared to hundreds for in-person training.
 
 **Winner: AI fitness apps**, by a significant margin.
 
@@ -161,7 +161,7 @@ Many people use both: **hire a trainer for 4-6 sessions** to learn proper form a
 
 AI fitness coaching isn't replacing personal trainers — it's filling the massive gap between "no plan at all" and "hiring a trainer." For the millions of people who want structured, personalized training but can't justify the cost of ongoing personal training, AI fitness apps are a game-changer.
 
-Download Yoked free on iOS and see what AI-powered training looks like.`,
+Download Yoked on iOS and see what AI-powered training looks like.`,
   },
   {
     slug: 'best-ai-fitness-apps-2026',
@@ -199,9 +199,9 @@ Yoked takes a straightforward approach: tell the AI your goals, equipment, and s
 - Clean, intuitive workout tracking interface
 - Personal records automatically tracked
 - Community program sharing
-- Free to use
+- Core features included free, AI generation via subscription
 
-**Pricing:** Free
+**Pricing:** Free to download. AI program generation: $4.99/month or $34.99/year.
 
 ### Fitbod
 
@@ -262,7 +262,7 @@ GymStreak offers detailed analytics and automatic progressive overload. It track
 | Feature | Yoked | Fitbod | Freeletics | GymStreak |
 |---------|-------|--------|------------|-----------|
 | AI Program Generation | Yes | Yes | Yes | Yes |
-| Price | Free | $12.99/mo | $11.66/mo | $6.99/mo |
+| Price | $4.99/mo | $12.99/mo | $11.66/mo | $6.99/mo |
 | Equipment Flexibility | All | Gym-focused | Bodyweight | Gym-focused |
 | Community Programs | Yes | No | Limited | No |
 | PR Tracking | Yes | Limited | No | Yes |
@@ -272,7 +272,7 @@ GymStreak offers detailed analytics and automatic progressive overload. It track
 
 There's no single "best" AI fitness app — it depends on your goals, budget, and training style.
 
-**Choose Yoked if** you want a free, clean AI workout planner that generates personalized programs quickly and lets you share/discover community programs.
+**Choose Yoked if** you want a clean AI workout planner with free workout tracking and community programs, plus AI-generated personalized programs via subscription.
 
 **Choose Fitbod if** you're an experienced lifter willing to pay for sophisticated auto-regulation.
 
@@ -284,7 +284,7 @@ There's no single "best" AI fitness app — it depends on your goals, budget, an
 
 AI fitness apps have reached a point where anyone can get quality, personalized programming without hiring a trainer. The barrier to structured training has never been lower.
 
-Try Yoked free on iOS and see how AI-generated workout programming can transform your training.`,
+Try Yoked on iOS and see how AI-generated workout programming can transform your training.`,
   },
   {
     slug: 'beginners-guide-ai-workouts',
@@ -314,7 +314,7 @@ The result is a structured training program that tells you exactly what exercise
 
 ### Getting Started with Yoked (5 Minutes)
 
-1. **Download Yoked** from the App Store (it's free)
+1. **Download Yoked** from the App Store
 2. **Tell the AI about yourself** — answer a few quick questions about your goals, experience, and equipment
 3. **Get your program** — the AI generates a complete workout program in seconds
 4. **Start your first workout** — follow the exercises, log your weights and reps

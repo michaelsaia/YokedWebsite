@@ -97,7 +97,7 @@ export const FAQS = [
   },
   {
     question: 'How much does Yoked cost?',
-    answer: 'Yoked is free to download and use. Generate AI workout programs, track your sessions, log personal records, and browse community programs — all at no cost.',
+    answer: 'Yoked is free to download and use for workout tracking, personal records, community programs, and building your own routines. AI-powered program generation is available with a subscription at $4.99/month or $34.99/year.',
   },
   {
     question: 'Can Yoked help me build muscle or lose weight?',

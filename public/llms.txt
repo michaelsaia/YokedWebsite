@@ -1,6 +1,6 @@
 # Yoked
 
-> Yoked is an AI-powered fitness app that creates personalized workout programs using artificial intelligence. Available free on iOS.
+> Yoked is an AI-powered fitness app that creates personalized workout programs using artificial intelligence. Available on iOS.
 
 ## Main Pages
 
@@ -21,7 +21,7 @@
 - App Name: Yoked
 - Category: AI Fitness / Health Application
 - Platforms: iOS (Android coming soon)
-- Price: Free
+- Price: Free to download. AI program generation: $4.99/month or $34.99/year.
 - Key Feature: AI-generated personalized workout programs
 - Website: https://yoked.fitness
 - App Store: https://apps.apple.com/us/app/yoked-ai-trainer/id6758185782

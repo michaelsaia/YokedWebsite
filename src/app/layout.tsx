@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://yoked.fitness'),
   title: 'Yoked - AI-Powered Fitness App | Personalized Workout Programs',
-  description: 'Yoked is an AI fitness app that creates personalized workout programs tailored to your goals, experience, and schedule. Your AI personal trainer — available 24/7. Download free on iOS.',
+  description: 'Yoked is an AI fitness app that creates personalized workout programs tailored to your goals, experience, and schedule. Your AI personal trainer — available 24/7 on iOS.',
   keywords: ['AI fitness app', 'AI personal trainer', 'personalized workout app', 'AI workout planner', 'AI fitness coach', 'adaptive training', 'workout tracker', 'gym app', 'workout program', 'muscle building', 'exercise app'],
   authors: [{ name: 'Yoked' }],
   creator: 'Yoked',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: 'https://yoked.fitness/',
     title: 'Yoked - AI-Powered Fitness App | Your AI Personal Trainer',
-    description: 'AI fitness app that creates personalized workout programs in seconds. Tailored to your goals, equipment, and schedule. Download free.',
+    description: 'AI fitness app that creates personalized workout programs in seconds. Tailored to your goals, equipment, and schedule.',
     siteName: 'Yoked',
     images: [
       {

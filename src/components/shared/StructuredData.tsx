@@ -35,6 +35,7 @@ export const softwareApplicationSchema = {
     '@type': 'Offer',
     price: '0',
     priceCurrency: 'USD',
+    description: 'Free to download with workout tracking, community programs, and progress logging. AI program generation available via subscription.',
   },
 };
 
