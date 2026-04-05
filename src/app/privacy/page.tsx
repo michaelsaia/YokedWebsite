@@ -38,7 +38,7 @@ export default function PrivacyPolicy() {
         <Container size="md">
           <div className="prose prose-invert max-w-none">
             <h1 className="text-4xl font-bold text-white mb-2">Privacy Policy</h1>
-            <p className="text-dark-500 mb-12">Last updated: March 7, 2026</p>
+            <p className="text-dark-500 mb-12">Last updated: April 5, 2026</p>
 
             <Section title="1. Introduction">
               <p>
@@ -77,6 +77,8 @@ export default function PrivacyPolicy() {
                 <li><strong>Device information:</strong> Device type, operating system version, and app version</li>
                 <li><strong>Usage data:</strong> Features used, screens viewed, and interaction patterns</li>
                 <li><strong>Error logs:</strong> Crash data and error reports for debugging and stability improvements</li>
+                <li><strong>Advertising data:</strong> With your permission (via Apple&apos;s App Tracking Transparency prompt), we collect your device&apos;s Identifier for Advertisers (IDFA) to measure the effectiveness of advertising campaigns. You can opt out at any time through your device&apos;s Settings &gt; Privacy &gt; Tracking.</li>
+                <li><strong>App events:</strong> We track certain in-app events (such as app launches, registrations, subscription starts, and workout completions) to measure advertising performance and improve the user experience</li>
               </ul>
 
               <h3 className="text-lg font-semibold text-white mt-6 mb-3">2.3 Information We Do NOT Collect</h3>
@@ -174,10 +176,15 @@ export default function PrivacyPolicy() {
                     <td>OAuth authentication</td>
                     <td>Name and email (or relay email) from your Apple account</td>
                   </tr>
+                  <tr>
+                    <td><strong>TikTok Business SDK</strong></td>
+                    <td>Advertising attribution and campaign measurement</td>
+                    <td>IDFA (with your permission), app events (installs, registrations, subscriptions), device information. No personal health or workout data is shared with TikTok.</td>
+                  </tr>
                 </tbody>
               </table>
               <p>
-                We do not sell your personal information to any third party. We do not use third-party analytics, advertising, or tracking SDKs.
+                We do not sell your personal information to any third party.
               </p>
             </Section>
 
@@ -274,15 +281,30 @@ export default function PrivacyPolicy() {
               </p>
             </Section>
 
-            <Section title="13. Cookies and Tracking">
+            <Section title="13. Advertising and Tracking">
               <p>
-                The Yoked mobile app does not use cookies. We do not use third-party analytics, advertising SDKs, or tracking pixels. The Yoked website (yoked.fitness) may use basic cookies for site functionality.
+                The Yoked mobile app uses the TikTok Business SDK to measure the effectiveness of our advertising campaigns. This SDK collects:
+              </p>
+              <ul>
+                <li>App install and launch events</li>
+                <li>Registration and subscription events</li>
+                <li>Device identifiers (IDFA, only with your explicit permission via Apple&apos;s App Tracking Transparency prompt)</li>
+                <li>Device information (OS version, app version)</li>
+              </ul>
+              <p>
+                <strong>We do not share your workout data, exercise logs, body measurements, progress photos, or any health-related information with TikTok or any advertising partner.</strong>
+              </p>
+              <p>
+                You can opt out of ad tracking at any time by going to your device&apos;s Settings &gt; Privacy &amp; Security &gt; Tracking and disabling tracking for Yoked. If you decline the tracking prompt, the SDK will still function but without access to your IDFA, which limits ad attribution accuracy.
+              </p>
+              <p>
+                The Yoked website (yoked.fitness) may use basic cookies for site functionality.
               </p>
             </Section>
 
             <Section title="14. Do Not Track">
               <p>
-                We do not track users across third-party websites or services. The App does not respond to Do Not Track (DNT) signals because we do not engage in cross-site tracking.
+                The App respects Apple&apos;s App Tracking Transparency framework. If you decline the tracking permission, we will not access your IDFA for advertising purposes. The App does not engage in cross-site tracking.
               </p>
             </Section>
 
